@@ -1,6 +1,6 @@
 # seb-web
 A simple web server using uWebSockets.js.
-The aim was to create a very simple program to read from a directory and serve its contents to the web. It is designed to be easy to build upon should more features be required in the future.
+The aim was to create a very simple program to read from a directory and serve its contents to the web. It is intended to be easy to build upon should more features be required in the future.
 
 ## Quick start
 - Clone or download this repository to your server
