@@ -10,5 +10,5 @@ A simple web server using uWebSockets.js.
 - `nodejs index`
 
 ## Configuration
-- To add Content-Type headers for specific file extensions edit the `content-type.json` file, following the existing example for svg files
+- To add `Content-Type` headers for specific file extensions edit the `content-type.json` file, following the existing example for svg files
 - Your website must have a file named `index.html` if you want the `/` path to display something
