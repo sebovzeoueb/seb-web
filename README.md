@@ -8,7 +8,7 @@ The aim was to create a very simple program to read from a directory and serve i
 - `yarn install` or `npm i`
 - `mkdir src`
 - place the contents of your website in the `src` directory
-- `nodejs index`
+- `nodejs index` on Linux or `node index` on Windows
 
 ## Configuration
 - To add `Content-Type` headers for specific file extensions edit the `content-type.json` file, following the existing example for svg files
